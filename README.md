@@ -1,9 +1,12 @@
-# Science-Centre-Membershi-Java
-PROJECT TITLE: Science Centre Membership Database
-PURPOSE OF PROJECT: Allow user to access, modify, and manage members of the Science Centre. 
+# Science-Centre-Membership-Java
+PURPOSE OF PROJECT: Allow user to access, modify, and manage members of the Science Centre.
+
 VERSION or DATE: 2018-03-17
+
 HOW TO START THIS PROJECT: Find Runnable Java file in Product and run 
-AUTHORS: Kai Yuan Chi
+
+AUTHOR: Kai Yuan Chi
+
 USER INSTRUCTIONS: The program has the following functions: 
 * Count the number of visitors and print a daily summary. 
 * Access/modify members’ information. Each member can be searched up by name, membership code, or address. 
