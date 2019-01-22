@@ -3,7 +3,7 @@ PURPOSE OF PROJECT: Allow user to access, modify, and manage members of the Scie
 
 VERSION or DATE: 2018-03-17
 
-HOW TO START THIS PROJECT: Find Runnable Java file in Product and run 
+HOW TO START THIS PROJECT: Find Runnable .Jar file and run, please enter valid input for items
 
 AUTHOR: Kai Yuan Chi
 
