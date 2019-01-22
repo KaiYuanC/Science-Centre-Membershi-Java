@@ -1,0 +1,65 @@
+New Members
+
+ID:16
+First name: Bob 
+Last name: Sandy
+ID:18
+First name: Amy 
+Last name: Huang
+Deleted Members
+
+Daily Programs
+
+Time:18:00-20:30
+Location: : IMAX Theatre
+Contact: Colan Vestumdum
+Time:14:45-15:45
+Location: : Science Hotspot
+Contact: Mimi Calendi
+Time:15:00-19:00
+Location: : RainForest Exibition
+Contact: Castera Glandi
+Time:09:00-10:00
+Location: : Mini Classroom
+Contact: Mr. Gara
+Time:08:30-17:40
+Location: : IMAX theatre
+Contact: Madarin Lumen
+Time:12:00-14:30
+Location: : science hotspot
+Contact: Nate Stones
+Time:14:45-16:00
+Location: : auditorium
+Contact: kathy matt
+Renting History
+
+Item:Wheelchair
+Name: : You Foo
+Item:Wheelchair
+Name: : Grandma Sun
+Lost and Found History
+
+Description: A blue glove
+Contact: Cindy Wei
+Location: Animal Kindom
+Lost? True
+Found? False
+Phone number: 839283
+Description: A yellow Pillow Case
+Contact: Tiny Bin
+Location: Cat's eye Exibit
+Lost? False
+Found? True
+Phone number: 839283
+Description: A can of shooting starts
+Contact: Melody Lyperd
+Location: Music hall
+Lost? True
+Found? False
+Phone number: 8392034
+Description: Blue ink pen
+Contact: Catherine Lai
+Location: Tim Hortons
+Lost? True
+Found? False
+Phone number: 839283
