@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Adult
+comment0.text=\r\n\ An\ adult\ is\ a\ member\ of\ the\ science\ centre\r\n\r\n\ @author\ KaiYuan\ Chi\r\n\ @version\ 2018-03-06\r\n
+comment1.params=first\ last
+comment1.target=Adult(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Adult\r\n\ \r\n\ @param\ frist\ the\ adult's\ first\ name\r\n\ @param\ last\ the\ adult's\ last\ name\r\n
+numComments=2

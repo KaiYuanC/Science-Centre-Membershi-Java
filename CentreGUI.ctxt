@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CentreGUI
+comment0.text=\r\n\ a\ CentreGUI\ object\ gives\ the\ view\ of\ the\ program\r\n\r\n\ @author\ ChiKa\r\n\ @version\ 2018-03-08\r\n
+comment1.params=
+comment1.target=void\ init()
+numComments=2
