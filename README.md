@@ -25,7 +25,7 @@ The program has the following functions:
 
 Here are some screenshots of the program: 
 
- | 
+col1 | col2
 ------------ | -------------
 Program initialization page: | Main menu page:
 ![Github Initialization](p1.JPG) | ![Github Homepage](p2.JPG)
