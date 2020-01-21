@@ -10,10 +10,6 @@ HOW TO START THIS PROJECT: Find runnable201803111046.Jar file and run, please en
 To see a program demonstration, checkout this [link to video demo](https://www.youtube.com/watch?v=8pAowg0_gQU) on youtube 
 
 To see a detailed UI explaination, please checkout **file Membership_Management_UI.pdf**
-
-Here are some screenshots of the program: 
-
-![Github Initialization](p1.JPG)
  
 USER INSTRUCTIONS: 
 The program has the following functions: 
@@ -26,3 +22,10 @@ The program has the following functions:
 * Import/export members information from/to a file for backup.
 * Include access restrictions to modifications. 
 * Operate with a graphical user interface.
+
+Here are some screenshots of the program: 
+
+![Github Initialization](p1.JPG)
+![Github Homepage](p2.JPG)
+![Github Datapage](p3.JPG)
+![Github AddRenting](p4.JPG)
