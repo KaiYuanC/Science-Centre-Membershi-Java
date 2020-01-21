@@ -1,4 +1,4 @@
-# Science-Centre-Membership-Java
+# Science Centre Membership in Java
 PURPOSE OF PROJECT: Allow user to access, modify, and manage members of the Science Centre.
 
 VERSION or DATE: 2018-03-17
