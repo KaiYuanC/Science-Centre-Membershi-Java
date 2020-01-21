@@ -3,7 +3,7 @@ PURPOSE OF PROJECT: Allow user to access, modify, and manage members of the Scie
 
 VERSION or DATE: 2018-03-17
 
-HOW TO START THIS PROJECT: Find Runnable .Jar file and run, please enter valid input for items
+HOW TO START THIS PROJECT: Find runnable201803111046.Jar file and run, please enter valid input for items or click enter on the program initialize page
 
 AUTHOR: Kai Yuan Chi
 
@@ -17,3 +17,6 @@ USER INSTRUCTIONS: The program has the following functions:
 * Import/export members information from/to a file for backup.
 * Include access restrictions to modifications. 
 * Operate with a graphical user interface.
+
+To see a demonstration of the program, please checkout the video demo file Membership_Management_Demonstration.mp4
+To see a detailed UI explaination, please checkout file Membership_Management_UI.pdf
