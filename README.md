@@ -5,6 +5,9 @@ VERSION or DATE: 2018-03-17
 
 HOW TO START THIS PROJECT: Find runnable201803111046.Jar file and run, please enter valid input for items or click enter on the program initialize page
 
+To see a demonstration of the program, please checkout the video demo on youtube at https://www.youtube.com/watch?v=8pAowg0_gQU
+To see a detailed UI explaination, please checkout file Membership_Management_UI.pdf
+
 AUTHOR: Kai Yuan Chi
 
 USER INSTRUCTIONS: The program has the following functions: 
@@ -17,6 +20,3 @@ USER INSTRUCTIONS: The program has the following functions:
 * Import/export members information from/to a file for backup.
 * Include access restrictions to modifications. 
 * Operate with a graphical user interface.
-
-To see a demonstration of the program, please checkout the video demo file Membership_Management_Demonstration.mp4
-To see a detailed UI explaination, please checkout file Membership_Management_UI.pdf
