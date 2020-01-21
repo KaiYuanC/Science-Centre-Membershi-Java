@@ -7,7 +7,7 @@ AUTHOR: Kai Yuan Chi
 
 HOW TO START THIS PROJECT: Find runnable201803111046.Jar file and run, please enter valid input for items or click enter on the program initialize page
 
-To see a program demonstration, checkout this [link to video demo] (https://www.youtube.com/watch?v=8pAowg0_gQU) on youtube: 
+To see a program demonstration, checkout this [link to video demo](https://www.youtube.com/watch?v=8pAowg0_gQU) on youtube 
 
 To see a detailed UI explaination, please checkout file Membership_Management_UI.pdf
 Here are some screenshots of the program: 
