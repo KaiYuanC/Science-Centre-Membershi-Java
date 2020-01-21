@@ -25,7 +25,17 @@ The program has the following functions:
 
 Here are some screenshots of the program: 
 
+Program initialization page: 
+
 ![Github Initialization](p1.JPG)
+
+Main menu page:
+
 ![Github Homepage](p2.JPG)
+
+List of membership page with searching and sorting functions:
+
 ![Github Datapage](p3.JPG)
+
+Adding renting item/member/program page
 ![Github AddRenting](p4.JPG)
