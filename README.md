@@ -12,6 +12,8 @@ To see a program demonstration, checkout this [link to video demo](https://www.y
 To see a detailed UI explaination, please checkout **file Membership_Management_UI.pdf**
 
 Here are some screenshots of the program: 
+
+![Github Initialization](p1.JPG)
  
 USER INSTRUCTIONS: 
 The program has the following functions: 
