@@ -25,7 +25,7 @@ The program has the following functions:
 
 Here are some screenshots of the program: 
 
-First Header | Second Header
+
 ------------ | -------------
 Program initialization page: | Main menu page:
 ![Github Initialization](p1.JPG) | ![Github Homepage](p2.JPG)
